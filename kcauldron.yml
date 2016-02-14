@@ -13,9 +13,9 @@
 # Setting: common.fastLeavesDecay.minTickTime Default: 5 # Minimal amount of tick between block updates
 
 common:
-  allowNetherPortalBesidesOverworld: false
+  allowNetherPortalBesidesOverworld: true
   fastLeavesDecay:
-    enable: false
+    enable: true
     maxTickTime: 10
     minTickTime: 5
 updatechecker:
