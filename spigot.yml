@@ -12,7 +12,7 @@
 
 config-version: 7
 settings:
-  bungeecord: false
+  bungeecord: true
   late-bind: false
   sample-count: 12
   timeout-time: 90
@@ -23,8 +23,8 @@ settings:
   fullMatchRate: 10
 messages:
   restart: Server is restarting
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
+  whitelist: You don't have that Whitelist pass!
+  unknown-command: What's that? Unknown command.
   server-full: The server is full!
   outdated-client: Outdated client! Please use {}
   outdated-server: Outdated server! I'm still on {}
@@ -42,7 +42,7 @@ world-settings:
       exp: 3.0
     mob-spawn-range: 4
     anti-xray:
-      enabled: true
+      enabled: false
       engine-mode: 1
       hide-blocks:
       - 14
