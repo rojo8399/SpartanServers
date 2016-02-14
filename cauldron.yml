@@ -58,7 +58,7 @@ logging:
   detailed-logging: false
   dump-heap-on-deadlock: false
 settings:
-  load-chunk-on-forge-tick: false
+  load-chunk-on-forge-tick: true
   check-entity-max-speeds: false
   check-entity-bounding-boxes: true
   load-chunk-on-request: true
@@ -69,7 +69,7 @@ world-settings:
     flowing-lava-decay: false
     allow-tnt-punishment: true
     infinite-water-source: true
-    entity-despawn-immediate: false
+    entity-despawn-immediate: true
     worldgen-chisel-GeneratorChisel: true
     worldgen-InventoryPets-WorldGenInventoryPets: true
     worldgen-harvestcraft-PamBeeGenerator: true
