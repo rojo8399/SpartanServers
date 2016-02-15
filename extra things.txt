@@ -1,3 +1,6 @@
 /teams explosions false
 /teams canBreakGlass false
 /teams vehiclesBreakBlocks false
+
+
+Delete InventoryTweaks In The Server (Duplication Bug)
