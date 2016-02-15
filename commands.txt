@@ -1,0 +1,3 @@
+/teams explosions false
+/teams canBreakGlass false
+/teams vehiclesBreakBlocks false
